@@ -1,0 +1,1 @@
+document.write('<h1>Hello z module-one!</h1>');
